@@ -30,9 +30,8 @@ Meu nome é Carlos Henrique Tourinho Santana, mas você pode me chamar apenas de
 Sou administrador de servidores Linux e tenho um grande interesse em desenvolvimento web (front-end), além de estar sempre buscando me aprimorar na área de Segurança da Informação. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 
-- ⚡ Além disso, eu sou: 
-  - Criptografia 🎸🎹
-  - Fitness 🏋️‍
+- ⚡ Além disso, eu sou amante: 
+  - Eletrônica, Linux & criptografia.
 
 
 ## Projetos em andamento
