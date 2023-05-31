@@ -18,28 +18,26 @@
   ##
  
 <div> 
-  <a href = "mailto:ihenriquetourinho@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ihenriquetourinho@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/carloshenriquetourinhosantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 
-## About Me
+## Sobre mim
 
-- :books: Graduating IT in IFRN :green_heart: ❤ 
-- 💻 Currently working as Junior Web Developer at Nova M3. I work with HTML, CSS, JS, PHP, Laravel, MySQL and Docker
-- 🌱 Currently learning Design Patterns, Architecture, UX/UI and some other cool things.
+Meu nome é Carlos Henrique Tourinho Santana, mas você pode me chamar apenas de Henrique Tourinho. Sou natural de Salvador e atualmente resido em Abrantes, na Bahia.
+
+Sou administrador de servidores Linux e tenho um grande interesse em desenvolvimento web (front-end), além de estar sempre buscando me aprimorar na área de Segurança da Informação. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 
-- ⚡ Also, I'm: 
-  - Musician 🎸🎹
-  - Fitness lifestyle 🏋️‍
-  - Music and Sea lover 🎶🌊
-  - Travel passionate ✈
+- ⚡ Além disso, eu sou: 
+  - Criptografia 🎸🎹
+  - Fitness 🏋️‍
+
 
 ## Current Projects 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=taskmaster)](https://github.com/dev-leonzera/taskmaster)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=Secrypter)](https://github.com/dev-leonzera/Secrypter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=henriquetourinho.github.io)](https://github.com/dev-leonzera/taskmaster)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=henriquetourinho.github.io)]([https://github.com/dev-leonzera/Secrypter](https://github.com/henriquetourinho/henriquetourinho.github.io))
 
-
-Made with ☕ and 💪 by **Dev-Leonzera**
+Feito com ☕ e 💪 por **Carlos Henrique Tourinho Santana**
