@@ -44,9 +44,9 @@ Sou administrador de servidores Linux e tenho um grande interesse em desenvolvim
   - Fitness 🏋️‍
 
 
-## Current Projects 
+## Projetos em andamento
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=henriquetourinho.github.io)](https://github.com/dev-leonzera/taskmaster)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=henriquetourinho.github.io)]([https://github.com/dev-leonzera/Secrypter](https://github.com/henriquetourinho/henriquetourinho.github.io))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=henriquetourinho.github.io)](https://github.com/henriquetourinho/henriquetourinho.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=blogado.github.io)](https://github.com/henriquetourinho/blogado.github.io)
 
 Feito com ☕ e 💪 por **Carlos Henrique Tourinho Santana**
