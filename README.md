@@ -1,4 +1,4 @@
-## Oi, eu sou Carlos Henrique Tourinho Santana, Diretor de operações, Administrador de Sistemas e Servidores!
+## Oi, eu sou Carlos Henrique Tourinho Santana, Diretor de operações, Administrador de Sistemas e Servidores Linux!
 <div align="center">
   <a href="https://github.com/henriquetourinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-leonzera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
