@@ -42,5 +42,3 @@ Além disso, meu trabalho e dedicação me renderam reconhecimento tanto no seto
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=Sentinala)]
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=gerenciador-de-logs)]
-
-Feito com ☕ e 💪 por **Carlos Henrique Tourinho Santana**
