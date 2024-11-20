@@ -28,17 +28,7 @@ Tenho uma paixão por tecnologia, especialmente por desenvolvimento web e segura
 
 Além disso, meu trabalho e dedicação me renderam reconhecimento tanto no setor tecnológico quanto nos negócios dentro da comunidade brasileira.
 
-Projetos em andamento
 
-
-Projetos favoritos
-
-
-Feito com ☕ e 💪 por Carlos Henrique Tourinho Santana.
-
-As mudanças feitas incluem:
-
-Remoção de repetições (como "estou sempre buscando constantemente").
 
 
 ## Projetos em andamento
