@@ -33,5 +33,9 @@ Sou administrador de servidores Linux e tenho um grande interesse em desenvolvim
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=comprimentos)]
 
 
+## Projetos em favoritos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=sentinela)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=gerenciador-de-logs)]
 
 Feito com ☕ e 💪 por **Carlos Henrique Tourinho Santana**
