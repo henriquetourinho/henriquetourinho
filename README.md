@@ -20,6 +20,26 @@ Eu tenho grande interesse em desenvolvimento web e segurança da informação, e
 
 
 
+Meu nome completo é Carlos Henrique Tourinho Santana, mas você pode me chamar de CHTS. Sou natural de Salvador e atualmente resido em Camaçari, na Bahia.
+
+Sou Engenheiro de Computação, CEO da i324, e Chief Operating Officer (COO) da RF Holding, que supervisiona empresas como iEletro, Hospeda Dados e Diretório WP.
+
+Tenho uma paixão por tecnologia, especialmente por desenvolvimento web e segurança da informação. Estou constantemente em busca de novos conhecimentos para expandir minhas habilidades, sempre focando em entregar soluções de alto impacto.
+
+Além disso, meu trabalho e dedicação me renderam reconhecimento tanto no setor tecnológico quanto nos negócios dentro da comunidade brasileira.
+
+Projetos em andamento
+
+
+Projetos favoritos
+
+
+Feito com ☕ e 💪 por Carlos Henrique Tourinho Santana.
+
+As mudanças feitas incluem:
+
+Remoção de repetições (como "estou sempre buscando constantemente").
+
 
 ## Projetos em andamento
 
@@ -29,7 +49,7 @@ Eu tenho grande interesse em desenvolvimento web e segurança da informação, e
 
 ## Projetos em favoritos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=sentinela)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=Sentinala)]
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=gerenciador-de-logs)]
 
