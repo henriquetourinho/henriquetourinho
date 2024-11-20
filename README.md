@@ -27,18 +27,3 @@ Sou Engenheiro de Computação, CEO da i324, e Chief Operating Officer (COO) da 
 Tenho uma paixão por tecnologia, especialmente por desenvolvimento web e segurança da informação. Estou constantemente em busca de novos conhecimentos para expandir minhas habilidades, sempre focando em entregar soluções de alto impacto.
 
 Além disso, meu trabalho e dedicação me renderam reconhecimento tanto no setor tecnológico quanto nos negócios dentro da comunidade brasileira.
-
-
-
-
-## Projetos em andamento
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=kamikase)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=comprimentos)]
-
-
-## Projetos em favoritos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=Sentinala)]
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=gerenciador-de-logs)]
