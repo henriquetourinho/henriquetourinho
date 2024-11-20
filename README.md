@@ -12,19 +12,24 @@
  
 <div> 
  <a href="https://twitter.com/tourinhooficial" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/henriquetourinhooficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/carloshenriquetourinhosantana" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:henriquetourinho@proton.me"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:ihenriquetourinho@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
 
 ## Sobre mim
 
-Meu nome é Carlos Henrique Tourinho Santana, mas você pode me chamar apenas de Henrique Tourinho. Sou natural de Salvador e atualmente resido em Abrantes, na Bahia.
+Meu nome é Carlos Henrique Tourinho Santana, mas você pode me chamar apenas de CHTS. Sou natural de Salvador e atualmente resido em Camaçari, na Bahia.
 
-Sou administrador de servidores Linux e tenho um grande interesse em desenvolvimento web (front-end), além de estar sempre buscando me aprimorar na área de Segurança da Informação. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+Sou engenheiro de Computação, CEO da i324 e Chief Operating Officer (COO) da RF Holding, que supervisiona a iEletro, Hospeda Dados e Diretório WP.
+
+Sou um profissional que está constantemente aprimorando meus conhecimentos no setor de tecnologia, a ponto de meu trabalho e minhas habilidades técnicas me tornarem altamente reconhecido nos setores de tecnologia e negócios na comunidade brasileira.
+
+Tenho grande interesse em desenvolvimento web e segurança da informação, e estou sempre buscando aprimorar meus conhecimentos em diferentes áreas.
+
+Eu tenho grande interesse em desenvolvimento web e segurança da informação, estou sempre buscando constantemente aprimorar meus conhecimentos em diferentes áreas da sociedade.
 
 
-- ⚡ Além disso, eu sou amante: 
-  - Eletrônica, Linux & criptografia.
+
 
 
 ## Projetos em andamento
