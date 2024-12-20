@@ -2,15 +2,15 @@
 <div align="center">
   <a href="https//github.com/eduumach">
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduumach&show_icons=true&bg_color=0d1117&title_color=f8f8f2&hide_border=true&text_color=ffff&icon_color=8be9fd&rank_icon=github&include_all_commits=true"  alt="eduardo github stats"/>
-   <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduumach&layout=compact&hide_border=true&title_color=f8f8f2&text_color=8be9fd&bg_color=0d1117"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriquetourinho&show_icons=true&bg_color=0d1117&title_color=f8f8f2&hide_border=true&text_color=ffff&icon_color=8be9fd&rank_icon=github&include_all_commits=true"  alt="eduardo github stats"/>
+   <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henriquetourinho&layout=compact&hide_border=true&title_color=f8f8f2&text_color=8be9fd&bg_color=0d1117"/> 
 </div> 
 
 ## Sobre mim
 
 Meu nome é Carlos Henrique Tourinho Santana, mas você pode me chamar apenas de CHTS. Sou natural de Salvador e atualmente resido em Camaçari, na Bahia.
 
-Sou engenheiro de Computação, CEO da i324 e Chief Operating Officer (COO) da RF Holding, que supervisiona a iEletro, Hospeda Dados e Diretório WP.
+Fundador da i324 e Chief Operating Officer (COO) da RF Holding.
 
 Sou um profissional que está constantemente aprimorando meus conhecimentos no setor de tecnologia, a ponto de meu trabalho e minhas habilidades técnicas me tornarem altamente reconhecido nos setores de tecnologia e negócios na comunidade brasileira.
 
