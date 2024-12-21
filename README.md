@@ -1,8 +1,4 @@
 ## Oi, eu sou Carlos Henrique Tourinho Santana, um jovem apaixonado pelo mundo Linux e open source! Eu tenho um caso de amor com shell script.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetourinho&layout=compact&langs_count=7&theme=synthwave">
-<img src="https://github-readme-stats.vercel.app/api?username=henriquetourinho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
-
 <div align="center">
   <a href="https//github.com/henriquetourinho">
 
