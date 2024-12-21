@@ -1,4 +1,9 @@
 ## Oi, eu sou Carlos Henrique Tourinho Santana, um jovem apaixonado pelo mundo Linux e open source! Eu tenho um caso de amor com shell script.
+
+[<img src="https://img.shields.io/github/license/fabriciocybershell/hennriquetourinho?style=for-the-badge">](https://img.shields.io/github/license/fabriciocybershell/Mikosuma?style=for-the-badge)
+&nbsp;&nbsp;[<img src="https://img.shields.io/github/stars/hennriquetourinho/hennriquetourinho?style=for-the-badge">](https://img.shields.io/github/stars/fabriciocybershell/Mikosuma?style=for-the-badge)
+&nbsp;&nbsp;[<img src="https://img.shields.io/github/contributors-anon/hennriquetourinho/hennriquetourinho?style=for-the-badge">](https://img.shields.io/github/contributors-anon/fabriciocybershell/mikosuma?style=for-the-badge)
+
 <div align="center">
   <a href="https//github.com/henriquetourinho">
 
