@@ -1,6 +1,6 @@
 ## Oi, eu sou o Henrique!
 
-Eu gosto de programar e desenvolver projetos, sendo a maioria deles voltados para resolver problemas do meu dia a dia. Além disso, muitas vezes acabo ajudando a solucionar desafios enfrentados por outras pessoas, utilizando principalmente a linguagem Shell.
+Eu gosto de programar e desenvolver projetos, sendo a maioria deles voltados para resolver problemas do meu dia a dia. Além disso, muitas vezes acabo ajudando a solucionar desafios enfrentados por outras pessoas.
 
 
 ## Minhas estatísticas
