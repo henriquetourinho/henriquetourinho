@@ -1,7 +1,6 @@
 ## Oi, eu sou o Henrique!
 
-Eu gosto de programar e desenvolver projetos, sendo a maioria deles voltados para resolver problemas do meu dia a dia. Além disso, muitas vezes acabo ajudando pessoas a solucionarem seus desafios do dia-dia.
-
+🙏 Evangélico | 🚀 Fundador da i324 & COO da RF Holding | 💻 Dev PHP/Shell/Python | 🇧🇷 Transformando o Brasil com Partido Novo.
 
 ## Minhas estatísticas
 
