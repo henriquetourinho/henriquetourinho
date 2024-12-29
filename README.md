@@ -4,7 +4,10 @@ Evangélico 🙏 | Fundador da i324 🚀 | COO da RF Holding 💼 | Dev PHP/Shel
 
 ## Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e pelo impacto que ela pode ter na sociedade. Atualmente, dedico meu tempo à i324 e à RF Holding, onde busco soluções inovadoras para os desafios do dia a dia. Minha fé e meus valores me guiam em tudo o que faço, e acredito que a política é uma ferramenta poderosa para transformar o Brasil em um país melhor.
+Eu gosto de trabalhar em projetos que tenham um impacto positivo na sociedade. Através de minha experiência com a **i324** e a **RF Holding**, busco inovar e criar soluções que ajudem empresas e indivíduos a alcançar seus objetivos.
+
+Se você deseja conversar sobre qualquer um desses temas ou sobre novos projetos, fique à vontade para me chamar! 😊
+
 
 ## Habilidades
 
