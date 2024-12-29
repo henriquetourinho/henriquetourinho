@@ -13,16 +13,6 @@ Sou um desenvolvedor apaixonado por tecnologia e pelo impacto que ela pode ter n
 * **Sistemas operacionais:** Linux, Windows
 * **Outras habilidades:** Git, Docker, AWS
 
-## Projetos
-
-* **[SafeSync](https://github.com/henriquetourinho/SafeSync):** Script de backup e sincronização de pastas.
-* **[Outros projetos](link para seus outros projetos)**
-
-## Contato
-
-* **LinkedIn:** [seu perfil no LinkedIn](link para seu LinkedIn)
-* **Email:** [seu email]
-
 ## Minhas estatísticas
 
 <div align="center">
