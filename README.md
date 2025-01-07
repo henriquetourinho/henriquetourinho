@@ -11,10 +11,10 @@ Se você deseja conversar sobre qualquer um desses temas ou sobre novos projetos
 
 ## Habilidades
 
-* **Linguagens de programação:** PHP, Shell Script, Python
-* **Banco de dados:** MySQL, PostgreSQL
-* **Sistemas operacionais:** Linux, Windows
-* **Outras habilidades:** Git, Docker, AWS
+* **Linguagens de programação:** PHP, Shell Script e Python
+* **Banco de dados:** MySQL e PostgreSQL
+* **Sistemas operacionais:** Linux e Unix
+* **Outras habilidades:** Git, Amazon Web Service e Digital Ocean
 
 ## Minhas estatísticas
 
