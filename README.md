@@ -1,6 +1,6 @@
 # Oi, eu sou o Henrique! 👋
 
-🚀 Fundador da i324 | 💼 COO da RF Holding | 💻 Dev PHP/Shell/Python 💻 | Transformando o 🇧🇷 com Partido Novo
+🚀 Fundador da i324 | 💼 COO da RF Holding | 💻 Dev PHP/Shell/Python | Transformando o 🇧🇷 com Partido Novo
 
 ## Sobre mim
 
