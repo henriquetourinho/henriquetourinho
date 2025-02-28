@@ -1,10 +1,10 @@
 # Oi, eu sou o Henrique! 👋
 
-🚀 Fundador da i324 | 💼 COO da RF Holding | 💻 Dev PHP/Shell/Python | 🥷 Transformando o 🇧🇷 com Partido Novo
+💻 Dev PHP/Shell/Python | 🥷 Transformando o 🇧🇷 com Partido Novo
 
 ## Sobre mim
 
-Eu gosto de trabalhar em projetos que tenham um impacto positivo na sociedade. Através de minha experiência com a **i324** e a **RF Holding**, busco inovar e criar soluções que ajudem empresas e indivíduos a alcançar seus objetivos.
+Eu gosto de trabalhar em projetos que tenham um impacto positivo na sociedade.
 
 Se você deseja conversar sobre qualquer um desses temas ou sobre novos projetos, fique à vontade para me chamar! 😊
 
