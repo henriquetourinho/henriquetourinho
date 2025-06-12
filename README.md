@@ -12,9 +12,7 @@
   Estou sempre aberto a novas ideias e colaborações que compartilhem desses valores.
 </p>
 
-<br>
-
-<div align="center">
+<div align="center" style="margin-top: 25px; margin-bottom: 25px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://t.me/henriquetourinho" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.linkedin.com/in/carloshenriquetourinhosantana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:henriquetourinho@riseup.net" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
@@ -22,7 +20,7 @@
   <a href="https://x.com/ryckybrasil" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)"></a>
 </div>
 
-<div align="center" style="margin: 30px 0;">
+<div align="center" style="margin-bottom: 30px;">
   <div style="display: inline-flex; align-items: center; gap: 15px; background-color: #F8FAFC; padding: 12px 25px; border-radius: 12px; border: 1px solid #E2E8F0; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
     <img src="https://komarev.com/ghpvc/?username=henriquetourinho&label=&color=2563EB&style=plastic" alt="Contador de Visitantes">
     <div style="text-align: left;">
@@ -46,9 +44,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetourinho&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=475569&locale=pt-br" alt="Linguagens Mais Usadas">
 </div>
-
-
----
 
 ---
 
@@ -97,7 +92,7 @@
       </div>
     </div>
   </a>
-  
+
   <a href="https://github.com/henriquetourinho/AutoPost-X" style="text-decoration: none; color: inherit;">
     <div style="background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 25px; height: 100%; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';">
       <div>
@@ -106,7 +101,6 @@
         <div style="display: flex; flex-wrap: wrap; gap: 8px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
           <img src="https://img.shields.io/badge/API-6B7280?style=flat-square" alt="API">
-          <img src="https://img.shields.io/badge/Automação-6B7280?style=flat-square" alt="Automação">
         </div>
       </div>
       <div style="display: flex; align-items: center; gap: 15px; margin-top: 20px; padding-top: 15px; border-top: 1px solid #F1F5F9;">
@@ -122,15 +116,13 @@
 
 </div>
 
-
-<br><br>
 ---
 
 ## 🛠️ Minhas Ferramentas e Tecnologias
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 30px;">
 
-  <div style="background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';">
+  <div style="background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
     <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux Logo">
       <h3 style="margin: 0; font-size: 22px; color: #1E293B;">Linux</h3>
@@ -142,7 +134,7 @@
     </div>
   </div>
 
-  <div style="background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';">
+  <div style="background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
     <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Sistemas Embarcados Logo">
       <h3 style="margin: 0; font-size: 22px; color: #1E293B;">Sist. Embarcados</h3>
@@ -150,11 +142,11 @@
     <div style="display: flex; flex-wrap: wrap; gap: 8px;">
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-      <img src="https://img.shields.io/badge/IoT-557890?style=flat-square&logo=google-cloud&logoColor=white" alt="IoT">
+      <img src="https://img.shields.io/badge/IoT-557890?style=flat-square" alt="IoT">
     </div>
   </div>
   
-  <div style="background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: all 0.2s ease-in-out;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';">
+  <div style="background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
     <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo">
       <h3 style="margin: 0; font-size: 22px; color: #1E293B;">Python</h3>
@@ -169,15 +161,13 @@
 
 ---
 
----
-
-## 🖥️ Meus Setups 
+## 🖥️ Meu Setup Principal
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 30px;">
 
   <div style="background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 25px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
     <h3 style="color: #1E293B; margin-top: 0; margin-bottom: 20px; font-size: 20px; border-bottom: 1px solid #F1F5F9; padding-bottom: 10px;">
-      💻 Desktop (Programação & Trabalho)
+      💻 Desktop Principal
     </h3>
     <div style="color: #475569; font-size: 16px; line-height: 2;">
       <p style="margin: 0;">🐧 <strong>SO:</strong> Debian</p>
@@ -202,12 +192,6 @@
   </div>
 
 </div>
-
----
-
-
-
----
 
 ---
 
