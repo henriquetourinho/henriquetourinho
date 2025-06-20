@@ -1,7 +1,4 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&pause=1050&color=000000&center=true&vCenter=true&width=800&lines=Open+Source;Dev+Linux;Automação;Python;Shell+Script" alt="Typing SVG" />
-</p>
-
 <h1 align="center" style="color:#000;font-weight:900;font-size:2.3em;margin-top:0;margin-bottom:0.5em;">
   <b>Carlos Henrique Tourinho Santana</b>
 </h1>
