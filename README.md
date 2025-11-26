@@ -1,15 +1,84 @@
-<p align="center">
-<h1 align="center" style="color:#000;font-weight:900;font-size:2.3em;margin-top:0;margin-bottom:0.5em;">
-  <b>Carlos Henrique Tourinho Santana</b>
+
+<h1 align="center">
+  👋 Olá! Eu sou **Carlos Henrique Tourinho Santana**
+  <br>
+  👋 Hello! I'm **Carlos Henrique Tourinho Santana**
 </h1>
 
-<p align="center" style="max-width:730px;margin:1em auto;font-size:1.12em;color:#181818;">
-  Eu sou <b>Carlos Henrique Tourinho Santana</b>, um desenvolvedor que usa a tecnologia como ferramenta para servir e construir.<br>
-  Motivado pela fé e pelo desejo de contribuir com o Brasil, minha paixão é criar soluções em <b>Linux</b>, <b>Python</b> e <b>Sistemas Embarcados</b> que possam trazer eficiência e impacto positivo.<br>
-  <b>Estou sempre aberto a novas ideias e colaborações que compartilhem desses valores.</b>
+<p align="center">
+  **Software Developer | Solutions Engineer | Embedded Systems**
+  <br>
+  *Foco em Linux, Python e Arquitetura de Software*
 </p>
 
 ---
+
+## 🇧🇷 Sobre Mim (PT)
+
+Motivado pela fé e pelo desejo de contribuir com o Brasil, sou um desenvolvedor apaixonado por criar soluções em **Linux**, **Python** e **Sistemas Embarcados**. Eu uso a tecnologia como uma **ferramenta para servir**, buscando eficiência e impacto positivo em tudo que construo.
+
+Como **Engenheiro de Soluções**, busco conectar as necessidades do mundo real à implementação técnica robusta e escalável.
+
+**Estou sempre aberto a novas ideias e colaborações que compartilhem desses valores.**
+
+## 🇬🇧 About Me (EN)
+
+Driven by my faith and a desire to contribute to Brazil, I'm a developer passionate about creating solutions using **Linux**, **Python**, and **Embedded Systems**. I use technology as a **tool for service**, aiming for efficiency and positive impact in everything I build.
+
+As a **Solutions Engineer**, I strive to connect real-world needs to robust and scalable technical implementation.
+
+**I'm always open to new ideas and collaborations that share these values.**
+
+---
+
+## 🛠️ Skills & Tecnologias | Technologies
+
+Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia.
+*Here are the main tools and technologies I use daily.*
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-009999?style=for-the-badge&logo=microbit&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=black)
+![PySide6](https://img.shields.io/badge/-PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🚀 Projetos em Destaque | Featured Projects
+
+Conheça alguns dos meus projetos mais importantes e ativos, com descrições curtas e bilíngues para contexto imediato.
+*Check out some of my most important and active projects, with short bilingual descriptions for immediate context.*
+
+| Repositório | Descrição (PT) | Description (EN) |
+| :---: | :--- | :--- |
+| **[S.I.G.M.A](https://github.com/henriquetourinho/S.I.G.M.A)** | Sistema de Gestão Modular Autônomo em Python para otimização de processos. | Autonomous Modular Management System in Python for process optimization. |
+| **[Cortex](https://github.com/henriquetourinho/Cortex)** | Um framework de desenvolvimento em Python/PySide6 para aplicações desktop com foco em Linux. | A Python/PySide6 development framework for desktop applications with a focus on Linux. |
+| **[clt](https://github.com/henriquetourinho/clt)** | Utilitário de linha de comando (CLI) simples e eficiente para tarefas diárias. | Simple and efficient Command Line Utility (CLI) for daily tasks. |
+| **[cebolinha](https://github.com/henriquetourinho/cebolinha)** | Um projeto leve de automatização e gerenciamento de tarefas usando Shell Script. | A lightweight project for task automation and management using Shell Script. |
+
+<p align="center">
+  <a href="https://github.com/henriquetourinho/S.I.G.M.A">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=S.I.G.M.A&theme=dark&border_radius=24" alt="S.I.G.M.A" />
+  </a>
+  <a href="https://github.com/henriquetourinho/clt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=clt&theme=dark&border_radius=24" alt="clt" />
+  </a>
+  <a href="https://github.com/henriquetourinho/Cortex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=Cortex&theme=dark&border_radius=24" alt="Cortex" />
+  </a>
+  <a href="https://github.com/henriquetourinho/cebolinha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=cebolinha&theme=dark&border_radius=24" alt="cebolinha" />
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub | GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=henriquetourinho&theme=dark_lover&column=7&margin-w=10&margin-h=10&title=Commits,Issues,PullRequest,Repositories,Followers,Stars,Organizations" alt="GitHub Trophies" />
@@ -17,7 +86,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henriquetourinho&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true&locale=pt-br" height="170" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=henriquetourinho&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" height="170" alt="Dias seguidos no GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquetourinho&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" height="170" alt="Dias seguidos no GitHub"/>
 </p>
 
 <p align="center">
@@ -30,56 +99,22 @@
 
 ---
 
-## 🚀 Destaque: Repositórios Principais
+## 🏆 Destaques & Contribuições | Highlights & Contributions
 
-<p align="center">
-  <a href="https://github.com/henriquetourinho/S.I.G.M.A">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=S.I.G.M.A&theme=dark&border_radius=24" alt="S.I.G.M.A"/>
-  </a>
-  <a href="https://github.com/henriquetourinho/clt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=clt&theme=dark&border_radius=24" alt="clt"/>
-  </a>
-  <a href="https://github.com/henriquetourinho/Cortex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=Cortex&theme=dark&border_radius=24" alt="Cortex"/>
-  </a>
-  <a href="https://github.com/henriquetourinho/cebolinha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=cebolinha&theme=dark&border_radius=24" alt="cebolinha"/>
-  </a>
-</p>
+* **🧑‍💻 Mantenedor do Wiki Debian | Debian Wiki Maintainer:** [![Wiki Debian](https://img.shields.io/badge/-Wiki%20Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://wiki.debian.org/henriquetourinho)
 
 ---
 
-## 🛠️ Skills & Tecnologias
+## 📫 Conecte-se Comigo | Get In Touch
 
-![Python](https://img.shields.io/badge/-Python-111111?style=for-the-badge&logo=python)
-![Shell Script](https://img.shields.io/badge/-Shell-111111?style=for-the-badge&logo=gnu-bash)
-![Linux](https://img.shields.io/badge/-Linux-111111?style=for-the-badge&logo=linux)
-![Debian](https://img.shields.io/badge/-Debian-111111?style=for-the-badge&logo=debian)
-![Qt](https://img.shields.io/badge/-Qt-111111?style=for-the-badge&logo=qt)
-![PySide6](https://img.shields.io/badge/-PySide6-111111?style=for-the-badge&logo=qt)
-![HTML5](https://img.shields.io/badge/-HTML5-111111?style=for-the-badge&logo=html5)
-![PHP](https://img.shields.io/badge/-PHP-111111?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-111111?style=for-the-badge&logo=javascript)
-
----
-
-## 🏅 Destaques
-
-- 🧑‍💻 Mantenedor do Wiki Debian:  
-  [![Wiki Debian](https://img.shields.io/badge/-Wiki%20Debian-111111?style=for-the-badge&logo=debian)](https://wiki.debian.org/henriquetourinho)
-- 👔 LinkedIn:  
-  [![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Tourinho%20Santana-111111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carloshenriquetourinhosantana/)
-
----
-
-## 📫 Contato
-
-[![Riseup](https://img.shields.io/badge/-henriquetouriho@riseup.net-111111?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:henriquetouriho@riseup.net)
-[![Telegram](https://img.shields.io/badge/-@henriquetourinho-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/henriquetourinho)
-[![Site Pessoal](https://img.shields.io/badge/-Meu%20Site-111111?style=for-the-badge&logo=githubpages)](https://henriquetourinho.github.io)
-
----
+| Plataforma | Detalhes |
+| :---: | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Tourinho%20Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshenriquetourinhosantana/) |
+| **Email** | [![Riseup](https://img.shields.io/badge/-henriquetouriho@riseup.net-000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:henriquetouriho@riseup.net) |
+| **Telegram** | [![Telegram](https://img.shields.io/badge/-@henriquetourinho-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/henriquetourinho) |
+| **Site Pessoal** | [![Site Pessoal](https://img.shields.io/badge/-Meu%20Site-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://henriquetourinho.github.io) |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=henriquetourinho&color=7cf5d0&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil"/>
 </p>
+
