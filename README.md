@@ -24,6 +24,7 @@ Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu n�
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henriquetourinho&bg_color=ffffff&color=8b949e&line=00ff37&point=2c3a49&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Estatísticas do Perfil](https://github-widgetbox.vercel.app/api/profile?username=henriquetourinho&data=followers,repositories,stars,commits&theme=github-dark)](https://github.com/ryu-sh/github-widgetbox)
 ---
 
