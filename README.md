@@ -20,7 +20,7 @@ Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu n�
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henriquetourinho&theme=dark_lover&column=7&margin-w=10&margin-h=10&title=Commits,Issues,PullRequest,Repositories,Followers,Stars,Organizations" alt="GitHub Trophies" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 </p>
 
 <p align="center">
