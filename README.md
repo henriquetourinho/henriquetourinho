@@ -20,7 +20,6 @@ Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu n�
 
 [![Troféus de Perfil](https://github-profile-trophy.vercel.app/?username=henriquetourinho&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=henriquetourinho&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
