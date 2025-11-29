@@ -17,6 +17,8 @@
 Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu nível de contribuição e dedicação à comunidade open-source.
 *Here are my GitHub achievements and stats, representing my level of contribution and dedication to the open-source community.*
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=henriquetourinho&theme=dark_lover&column=7&margin-w=10&margin-h=10&title=Commits,Issues,PullRequest,Repositories,Followers,Stars,Organizations" alt="GitHub Trophies" />
 </p>
