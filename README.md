@@ -20,10 +20,6 @@ Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu n�
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquetourinho&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true&locale=pt-br" height="170" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquetourinho&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" height="170" alt="Dias seguidos no GitHub"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquetourinho&theme=github-compact&hide_border=true" alt="Gráfico de atividades do GitHub" />
