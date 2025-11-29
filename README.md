@@ -19,9 +19,6 @@ Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu n�
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<p align="center">
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henriquetourinho&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true&locale=pt-br" height="170" alt="Estatísticas do GitHub"/>
