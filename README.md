@@ -30,9 +30,16 @@ Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu n�
 </p>
 
 ## 📊 Minha Atividade no GitHub
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=henriquetourinho&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=475569&icon_color=2563EB&locale=pt-br](https://github-profile-trophy.vercel.app/?username=henriquetourinho&theme=light)" alt="Estatísticas GitHub">
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henriquetourinho&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=475569&icon_color=2563EB&locale=pt-br" alt="Estatísticas GitHub">
+
+
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquetourinho&theme=default&hide_border=true&background=00000000&stroke=0000&ring=2563EB&fire=2563EB&currStreakLabel=475569&locale=pt_BR" alt="Sequência de Contribuições">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetourinho&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=475569&locale=pt-br" alt="Linguagens Mais Usadas">
