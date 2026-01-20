@@ -1,8 +1,8 @@
 <h1 align="center">
   👋 Olá! Eu sou <strong>Carlos Henrique Tourinho Santana</strong>
-  <br>
+  </h1>
 
-  *Foco em Linux, Python e Arquitetura de Software*
+ <p></p> *Foco em Linux, Python e Arquitetura de Software*
 </p>
 
 ---
