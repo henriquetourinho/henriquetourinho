@@ -2,7 +2,7 @@
   👋 Olá! Eu sou <strong>Carlos Henrique Tourinho Santana</strong>
   </h1>
 
- <p></p> *Foco em Linux, Python e Arquitetura de Software*
+ <p>*Foco em Linux, Python e Arquitetura de Software*
 </p>
 
 ---
@@ -11,13 +11,12 @@
 
 Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu nível de contribuição e dedicação à comunidade open-source.
 
-[![Troféus de Perfil](https://github-profile-trophy.vercel.app/?username=henriquetourinho&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henriquetourinho&bg_color=ffffff&color=8b949e&line=00ff37&point=2c3a49&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Estatísticas do Perfil](https://github-widgetbox.vercel.app/api/profile?username=henriquetourinho&data=followers,repositories,stars,commits&theme=github-dark)](https://github.com/ryu-sh/github-widgetbox)
+
 ---
 
 ## 🇧🇷 Sobre Mim (PT)
