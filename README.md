@@ -1,12 +1,7 @@
 <h1 align="center">
   👋 Olá! Eu sou <strong>Carlos Henrique Tourinho Santana</strong>
   <br>
-  👋 Hello! I'm <strong>Carlos Henrique Tourinho Santana</strong>
-</h1>
 
-<p align="center">
-  **Software Developer | Solutions Engineer | Embedded Systems**
-  <br>
   *Foco em Linux, Python e Arquitetura de Software*
 </p>
 
@@ -15,8 +10,6 @@
 ## 🎖️ Conquistas & Estatísticas | Achievements & Stats
 
 Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu nível de contribuição e dedicação à comunidade open-source.
-*Here are my GitHub achievements and stats, representing my level of contribution and dedication to the open-source community.*
-## Meu Perfil no GitHub
 
 [![Troféus de Perfil](https://github-profile-trophy.vercel.app/?username=henriquetourinho&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -35,20 +28,11 @@ Como **Engenheiro de Soluções**, busco conectar as necessidades do mundo real 
 
 **Estou sempre aberto a novas ideias e colaborações que compartilhem desses valores.**
 
-## 🇬🇧 About Me (EN)
-
-Driven by my faith and a desire to contribute to Brazil, I'm a developer passionate about creating solutions using **Linux**, **Python**, and **Embedded Systems**. I use technology as a **tool for service**, aiming for efficiency and positive impact in everything I build.
-
-As a **Solutions Engineer**, I strive to connect real-world needs to robust and scalable technical implementation.
-
-**I'm always open to new ideas and collaborations that share these values.**
-
----
 
 ## 🚀 Projetos em Destaque | Featured Projects
 
 Conheça alguns dos meus projetos mais importantes e ativos, com descrições curtas e bilíngues para contexto imediato.
-*Check out some of my most important and active projects, with short bilingual descriptions for immediate context.*
+
 
 | Repositório | Descrição (PT) | Description (EN) |
 | :---: | :--- | :--- |
@@ -77,7 +61,7 @@ Conheça alguns dos meus projetos mais importantes e ativos, com descrições cu
 ## 🛠️ Skills & Tecnologias | Technologies
 
 Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia.
-*Here are the main tools and technologies I use daily.*
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -92,13 +76,13 @@ Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia
 
 ---
 
-## 🏆 Destaques & Contribuições | Highlights & Contributions
+## 🏆 Destaques & Contribuições
 
-* **🧑‍💻 Mantenedor do Wiki Debian | Debian Wiki Maintainer:** [![Wiki Debian](https://img.shields.io/badge/-Wiki%20Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://wiki.debian.org/henriquetourinho)
+* **🧑‍💻 Mantenedor do Wiki Debian:** [![Wiki Debian](https://img.shields.io/badge/-Wiki%20Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://wiki.debian.org/henriquetourinho)
 
 ---
 
-## 📫 Conecte-se Comigo | Get In Touch
+## 📫 Conecte-se Comigo
 
 | Plataforma | Detalhes |
 | :---: | :--- |
