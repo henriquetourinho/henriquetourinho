@@ -88,7 +88,7 @@ Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Tourinho%20Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshenriquetourinhosantana/) |
 | **Email** | [![Riseup](https://img.shields.io/badge/-henriquetouriho@riseup.net-000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:henriquetouriho@riseup.net) |
 | **Telegram** | [![Telegram](https://img.shields.io/badge/-@henriquetourinho-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/henriquetourinho) |
-| **Site Pessoal** | [![Site Pessoal](https://img.shields.io/badge/-Meu%20Site-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://henriquetourinho.github.io) |
+| **Site Pessoal** | [![Site Pessoal](https://img.shields.io/badge/-Meu%20Site-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://henriquetourinho.com.br) |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=henriquetourinho&color=7cf5d0&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil"/>
