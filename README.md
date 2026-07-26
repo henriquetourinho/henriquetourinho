@@ -1,97 +1,161 @@
-<h1 align="center">
-  👋 Olá! Eu sou <strong>Carlos Henrique Tourinho Santana</strong>
-  </h1>
+<div align="center">
 
- <p>*Foco em Linux, Python e Arquitetura de Software*
-</p>
+# Carlos Henrique Tourinho Santana
+
+### Desenvolvedor de Software · Administrador de Sistemas Linux · Arquiteto de Software
+
+Construo aplicações, infraestrutura e automações com foco em **Linux, segurança, desempenho e autonomia tecnológica**.
+
+<sub>Software developer and Linux systems administrator from Salvador, Bahia, Brazil.</sub>
+
+<br><br>
+
+[![Site](https://img.shields.io/badge/Site-henriquetourinho.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://henriquetourinho.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Henrique_Tourinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshenriquetourinhosantana/)
+[![Debian Wiki](https://img.shields.io/badge/Debian_Wiki-Contribuidor-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://wiki.debian.org/henriquetourinho)
+[![Telegram](https://img.shields.io/badge/Telegram-@henriquetourinho-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/henriquetourinho)
+[![E-mail](https://img.shields.io/badge/E--mail-Riseup-FF0000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:henriquetourinho@riseup.net)
+
+</div>
 
 ---
 
-## 🎖️ Conquistas & Estatísticas | Achievements & Stats
+## 🏅 Destaque no GitHub
 
-Aqui estão as minhas conquistas e estatísticas no GitHub, representando meu nível de contribuição e dedicação à comunidade open-source.
+<div align="center">
 
+[![GitHub Achievement Level](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
+**Nível A+ em atividade e contribuições públicas no GitHub.**
 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Henriquetourinho?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
+</div>
 
 ---
 
-## 🇧🇷 Sobre Mim (PT)
+## Sobre mim
 
-Motivado pela fé e pelo desejo de contribuir com o Brasil, sou um desenvolvedor apaixonado por criar soluções em **Linux**, **Python** e **Sistemas Embarcados**. Eu uso a tecnologia como uma **ferramenta para servir**, buscando eficiência e impacto positivo em tudo que construo.
+Sou desenvolvedor de software e administrador de sistemas, baseado em **Salvador, Bahia**, com mais de uma década de experiência entre desenvolvimento, infraestrutura, servidores e produtos digitais.
 
-Como **Engenheiro de Soluções**, busco conectar as necessidades do mundo real à implementação técnica robusta e escalável.
+Minha atuação conecta código e operação: desenvolvo aplicações web e desktop, projeto arquiteturas, administro ambientes Linux, automatizo implantações e transformo processos manuais em sistemas mais simples, seguros e sustentáveis.
 
-**Estou sempre aberto a novas ideias e colaborações que compartilhem desses valores.**
+- 🐧 **Linux e Debian** fazem parte da minha trajetória técnica; contribuo com o ecossistema Debian desde 2018.
+- ⚙️ Trabalho com **backend, infraestrutura, automação, segurança e arquitetura de software**.
+- 🧩 Desenvolvo **ferramentas open source, sistemas SaaS, dashboards e soluções sob medida**.
+- 🔐 Valorizo **privacidade, documentação, estabilidade e independência tecnológica**.
+- 🇧🇷 Acredito na tecnologia como ferramenta de serviço, autonomia e impacto positivo no Brasil.
 
+Também estudo **Jornalismo**, ampliando meu olhar sobre comunicação, produto, sociedade e a forma como a tecnologia chega às pessoas.
 
-## 🚀 Projetos em Destaque | Featured Projects
+---
 
-Conheça alguns dos meus projetos mais importantes e ativos, com descrições curtas e bilíngues para contexto imediato.
+## Áreas de atuação
 
+| Desenvolvimento | Infraestrutura e automação | Arquitetura e produto |
+|---|---|---|
+| Aplicações web, APIs, ferramentas CLI e interfaces desktop | Debian, Nginx, PHP-FPM, MariaDB/MySQL, SSH e deploy | SaaS, painéis administrativos, modelagem de sistemas e integrações |
+| Python, PHP, JavaScript, Go, Bash e Qt/PySide6 | Provisionamento, segurança, backups e observabilidade | Experiência do usuário, documentação e evolução de produtos |
 
-| Repositório | Descrição (PT) | Description (EN) |
-| :---: | :--- | :--- |
-| **[S.I.G.M.A](https://github.com/henriquetourinho/S.I.G.M.A)** | Sistema de Gestão Modular Autônomo em Python para otimização de processos. | Autonomous Modular Management System in Python for process optimization. |
-| **[Cortex](https://github.com/henriquetourinho/Cortex)** | Um framework de desenvolvimento em Python/PySide6 para aplicações desktop com foco em Linux. | A Python/PySide6 development framework for desktop applications with a focus on Linux. |
-| **[clt](https://github.com/henriquetourinho/clt)** | Utilitário de linha de comando (CLI) simples e eficiente para tarefas diárias. | Simple and efficient Command Line Utility (CLI) for daily tasks. |
-| **[cebolinha](https://github.com/henriquetourinho/cebolinha)** | Um projeto leve de automatização e gerenciamento de tarefas usando Shell Script. | A lightweight project for task automation and management using Shell Script. |
+---
+
+## Projetos open source em destaque
 
 <p align="center">
+  <a href="https://github.com/henriquetourinho/brhttp">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=brhttp&theme=transparent&hide_border=true&border_radius=12" alt="brhttp" />
+  </a>
   <a href="https://github.com/henriquetourinho/S.I.G.M.A">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=S.I.G.M.A&theme=dark&border_radius=24" alt="S.I.G.M.A" />
-  </a>
-  <a href="https://github.com/henriquetourinho/clt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=clt&theme=dark&border_radius=24" alt="clt" />
-  </a>
-  <a href="https://github.com/henriquetourinho/Cortex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=Cortex&theme=dark&border_radius=24" alt="Cortex" />
-  </a>
-  <a href="https://github.com/henriquetourinho/cebolinha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=cebolinha&theme=dark&border_radius=24" alt="cebolinha" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=S.I.G.M.A&theme=transparent&hide_border=true&border_radius=12" alt="S.I.G.M.A" />
   </a>
 </p>
-
----
-
-## 🛠️ Skills & Tecnologias | Technologies
-
-Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia.
-
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-009999?style=for-the-badge&logo=microbit&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=black)
-![PySide6](https://img.shields.io/badge/-PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 🏆 Destaques & Contribuições
-
-* **🧑‍💻 Mantenedor do Wiki Debian:** [![Wiki Debian](https://img.shields.io/badge/-Wiki%20Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://wiki.debian.org/henriquetourinho)
-
----
-
-## 📫 Conecte-se Comigo
-
-| Plataforma | Detalhes |
-| :---: | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Carlos%20Henrique%20Tourinho%20Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshenriquetourinhosantana/) |
-| **Email** | [![Riseup](https://img.shields.io/badge/-henriquetouriho@riseup.net-000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:henriquetouriho@riseup.net) |
-| **Telegram** | [![Telegram](https://img.shields.io/badge/-@henriquetourinho-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/henriquetourinho) |
-| **Site Pessoal** | [![Site Pessoal](https://img.shields.io/badge/-Meu%20Site-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://henriquetourinho.com.br) |
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=henriquetourinho&color=7cf5d0&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil"/>
+  <a href="https://github.com/henriquetourinho/clt">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=clt&theme=transparent&hide_border=true&border_radius=12" alt="clt" />
+  </a>
+  <a href="https://github.com/henriquetourinho/deployzada">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=deployzada&theme=transparent&hide_border=true&border_radius=12" alt="deployzada" />
+  </a>
+</p>
+
+### Outros projetos
+
+- **[Cortex](https://github.com/henriquetourinho/Cortex)** — suíte open source para monitoramento e controle de sistemas Debian.
+- **[cebolinha](https://github.com/henriquetourinho/cebolinha)** — roteamento completo do tráfego de rede por Tor em Debian e Ubuntu.
+- **[AutoPost-X](https://github.com/henriquetourinho/AutoPost-X)** — automação de publicações e monitoramento de perfis no X.
+- **[Dev-Chronicle](https://github.com/henriquetourinho/Dev-Chronicle)** — registros inteligentes de DX/UX com automação Python e painel.
+- **[AutoServer](https://github.com/henriquetourinho/autoserver)** — provisionamento automatizado de servidores LEMP em Debian e Ubuntu.
+
+<p align="center">
+  <a href="https://github.com/henriquetourinho?tab=repositories"><strong>Ver todos os repositórios →</strong></a>
 </p>
 
 ---
+
+## Produtos e iniciativas
+
+Além dos repositórios públicos, desenvolvo plataformas e produtos digitais voltados a comunicação, produtividade, gestão e experiência do usuário.
+
+| Projeto | Proposta |
+|---|---|
+| **[NTXA.one](https://ntxa.one/)** | Ecossistema de serviços, ferramentas e experiências digitais autorais. |
+| **[Cartinha Online](https://cartinha.online/)** | Plataforma para criação e compartilhamento de cartas digitais. |
+| **[Corpinho](https://corpinho.online/)** | Plataforma de acompanhamento alimentar, hidratação, atividades e metas pessoais. |
+| **[Site pessoal](https://henriquetourinho.com.br/)** | Portfólio, trajetória profissional, projetos e formas de contato. |
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt_%2F_PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## GitHub em números
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=henriquetourinho&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetourinho&layout=compact&theme=transparent&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais utilizadas" />
+</p>
+
+> As estatísticas consideram apenas os dados públicos disponíveis no GitHub e não representam, sozinhas, toda a experiência profissional ou o volume de projetos privados.
+
+---
+
+## Open source e colaboração
+
+Gosto de construir ferramentas úteis, documentadas e acessíveis. Sempre que possível, publico código para que outras pessoas possam estudar, adaptar, melhorar e devolver contribuições à comunidade.
+
+Contribuições, sugestões técnicas, relatórios de problemas e novas ideias são bem-vindos nos repositórios.
+
+---
+
+<div align="center">
+
+### Vamos conversar?
+
+Estou aberto a colaborações em **Linux, infraestrutura, automação, software livre, sistemas web e produtos digitais**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fale_comigo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshenriquetourinhosantana/)
+[![Telegram](https://img.shields.io/badge/Telegram-@henriquetourinho-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/henriquetourinho)
+[![Website](https://img.shields.io/badge/Website-henriquetourinho.com.br-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://henriquetourinho.com.br/)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=henriquetourinho&label=Visualizações%20do%20perfil&color=555555&style=flat-square" alt="Visualizações do perfil" />
+
+</div>
