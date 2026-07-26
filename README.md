@@ -59,23 +59,48 @@ Também estudo **Jornalismo**, ampliando meu olhar sobre comunicação, produto,
 
 ## Projetos open source em destaque
 
-<p align="center">
-  <a href="https://github.com/henriquetourinho/clt">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=clt&theme=transparent&hide_border=true&border_radius=12" alt="clt" />
-  </a>
-  <a href="https://github.com/henriquetourinho/brhttp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=brhttp&theme=transparent&hide_border=true&border_radius=12" alt="brhttp" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/henriquetourinho/cebolinha">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=cebolinha&theme=transparent&hide_border=true&border_radius=12" alt="cebolinha" />
-  </a>
-  <a href="https://github.com/henriquetourinho/autoserver">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=autoserver&theme=transparent&hide_border=true&border_radius=12" alt="AutoServer" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/henriquetourinho/clt">⚙️ CLT</a></h3>
+      <p>Provisionamento automático de ambientes <strong>LEMP</strong> para Debian e derivados, com suporte a HTTPS, WordPress, backups e gerenciamento de projetos.</p>
+      <p>
+        <a href="https://github.com/henriquetourinho/clt"><img src="https://img.shields.io/github/languages/top/henriquetourinho/clt?style=flat-square&amp;logo=gnubash&amp;label=Linguagem" alt="Linguagem principal do CLT"></a>
+        <a href="https://github.com/henriquetourinho/clt/stargazers"><img src="https://img.shields.io/github/stars/henriquetourinho/clt?style=flat-square&amp;logo=github&amp;label=Estrelas" alt="Estrelas do CLT"></a>
+        <a href="https://github.com/henriquetourinho/clt/commits"><img src="https://img.shields.io/github/last-commit/henriquetourinho/clt?style=flat-square&amp;label=Atualizado" alt="Último commit do CLT"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/henriquetourinho/brhttp">🚀 brhttp</a></h3>
+      <p>Servidor de desenvolvimento web em <strong>Go</strong>, com live reload, proxy reverso, automação de build, webhooks e API de controle.</p>
+      <p>
+        <a href="https://github.com/henriquetourinho/brhttp"><img src="https://img.shields.io/github/languages/top/henriquetourinho/brhttp?style=flat-square&amp;logo=go&amp;label=Linguagem" alt="Linguagem principal do brhttp"></a>
+        <a href="https://github.com/henriquetourinho/brhttp/stargazers"><img src="https://img.shields.io/github/stars/henriquetourinho/brhttp?style=flat-square&amp;logo=github&amp;label=Estrelas" alt="Estrelas do brhttp"></a>
+        <a href="https://github.com/henriquetourinho/brhttp/commits"><img src="https://img.shields.io/github/last-commit/henriquetourinho/brhttp?style=flat-square&amp;label=Atualizado" alt="Último commit do brhttp"></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/henriquetourinho/cebolinha">🧅 cebolinha</a></h3>
+      <p>Script para direcionar de forma completa e persistente o tráfego de rede pelo <strong>Tor</strong> em sistemas Debian e Ubuntu.</p>
+      <p>
+        <a href="https://github.com/henriquetourinho/cebolinha"><img src="https://img.shields.io/github/languages/top/henriquetourinho/cebolinha?style=flat-square&amp;logo=gnubash&amp;label=Linguagem" alt="Linguagem principal do cebolinha"></a>
+        <a href="https://github.com/henriquetourinho/cebolinha/stargazers"><img src="https://img.shields.io/github/stars/henriquetourinho/cebolinha?style=flat-square&amp;logo=github&amp;label=Estrelas" alt="Estrelas do cebolinha"></a>
+        <a href="https://github.com/henriquetourinho/cebolinha/commits"><img src="https://img.shields.io/github/last-commit/henriquetourinho/cebolinha?style=flat-square&amp;label=Atualizado" alt="Último commit do cebolinha"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/henriquetourinho/autoserver">🖥️ AutoServer</a></h3>
+      <p>Provisionamento automático de servidores <strong>LEMP</strong> com Nginx, MariaDB e PHP para ambientes Debian e Ubuntu.</p>
+      <p>
+        <a href="https://github.com/henriquetourinho/autoserver"><img src="https://img.shields.io/github/languages/top/henriquetourinho/autoserver?style=flat-square&amp;logo=gnubash&amp;label=Linguagem" alt="Linguagem principal do AutoServer"></a>
+        <a href="https://github.com/henriquetourinho/autoserver/stargazers"><img src="https://img.shields.io/github/stars/henriquetourinho/autoserver?style=flat-square&amp;logo=github&amp;label=Estrelas" alt="Estrelas do AutoServer"></a>
+        <a href="https://github.com/henriquetourinho/autoserver/commits"><img src="https://img.shields.io/github/last-commit/henriquetourinho/autoserver?style=flat-square&amp;label=Atualizado" alt="Último commit do AutoServer"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/henriquetourinho?tab=repositories"><strong>Ver todos os repositórios →</strong></a>
@@ -117,14 +142,21 @@ Além dos repositórios públicos, desenvolvo plataformas e produtos digitais vo
 
 ---
 
-## GitHub em números
+## Atividade no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=henriquetourinho&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquetourinho&layout=compact&theme=transparent&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais utilizadas" />
+  <a href="https://github.com/henriquetourinho?tab=followers">
+    <img src="https://img.shields.io/github/followers/henriquetourinho?style=for-the-badge&amp;logo=github&amp;label=Seguidores" alt="Seguidores no GitHub">
+  </a>
+  <a href="https://github.com/henriquetourinho?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-Explorar-181717?style=for-the-badge&amp;logo=github" alt="Explorar repositórios">
+  </a>
+  <a href="https://github.com/henriquetourinho?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31">
+    <img src="https://img.shields.io/badge/Contribuições-Ver_atividade-238636?style=for-the-badge&amp;logo=github" alt="Ver atividade de contribuições">
+  </a>
 </p>
 
-> As estatísticas consideram apenas os dados públicos disponíveis no GitHub e não representam, sozinhas, toda a experiência profissional ou o volume de projetos privados.
+> O cartão A+ acima concentra o principal resumo de atividade pública. A experiência profissional também inclui projetos privados, infraestrutura e produtos que não aparecem nas métricas do GitHub.
 
 ---
 
