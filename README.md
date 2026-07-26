@@ -60,30 +60,22 @@ Também estudo **Jornalismo**, ampliando meu olhar sobre comunicação, produto,
 ## Projetos open source em destaque
 
 <p align="center">
+  <a href="https://github.com/henriquetourinho/clt">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=clt&theme=transparent&hide_border=true&border_radius=12" alt="clt" />
+  </a>
   <a href="https://github.com/henriquetourinho/brhttp">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=brhttp&theme=transparent&hide_border=true&border_radius=12" alt="brhttp" />
-  </a>
-  <a href="https://github.com/henriquetourinho/S.I.G.M.A">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=S.I.G.M.A&theme=transparent&hide_border=true&border_radius=12" alt="S.I.G.M.A" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/henriquetourinho/clt">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=clt&theme=transparent&hide_border=true&border_radius=12" alt="clt" />
+  <a href="https://github.com/henriquetourinho/cebolinha">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=cebolinha&theme=transparent&hide_border=true&border_radius=12" alt="cebolinha" />
   </a>
-  <a href="https://github.com/henriquetourinho/deployzada">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=deployzada&theme=transparent&hide_border=true&border_radius=12" alt="deployzada" />
+  <a href="https://github.com/henriquetourinho/autoserver">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=henriquetourinho&repo=autoserver&theme=transparent&hide_border=true&border_radius=12" alt="AutoServer" />
   </a>
 </p>
-
-### Outros projetos
-
-- **[Cortex](https://github.com/henriquetourinho/Cortex)** — suíte open source para monitoramento e controle de sistemas Debian.
-- **[cebolinha](https://github.com/henriquetourinho/cebolinha)** — roteamento completo do tráfego de rede por Tor em Debian e Ubuntu.
-- **[AutoPost-X](https://github.com/henriquetourinho/AutoPost-X)** — automação de publicações e monitoramento de perfis no X.
-- **[Dev-Chronicle](https://github.com/henriquetourinho/Dev-Chronicle)** — registros inteligentes de DX/UX com automação Python e painel.
-- **[AutoServer](https://github.com/henriquetourinho/autoserver)** — provisionamento automatizado de servidores LEMP em Debian e Ubuntu.
 
 <p align="center">
   <a href="https://github.com/henriquetourinho?tab=repositories"><strong>Ver todos os repositórios →</strong></a>
